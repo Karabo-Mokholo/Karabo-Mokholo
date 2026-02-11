@@ -2,7 +2,8 @@
 
 ## 🚀 Web Developer | Builder | Problem Solver
 
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/@KaraboMokholo?label=YouTube%20Subscribers&style=for-the-badge)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRrSzfHIuYM2Pw4GdSkdPfw?label=YouTube%20Subscribers&color=ff0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@KaraboMokholo)
+
 
 
 I'm focused on building real-world web applications and improving daily through disciplined execution.
@@ -31,9 +32,8 @@ I'm focused on building real-world web applications and improving daily through 
 ---
 
 ### 🌍 Connect With Me
-- YouTube: (your link)
-- Portfolio: (your domain)
-- LinkedIn: (optional)
+- YouTube: https://www.youtube.com/@KaraboMokholo
+- LinkedIn: https://www.linkedin.com/in/karabomokholo/?skipRedirect=true
 
 ---
 
