@@ -27,7 +27,8 @@ I'm focused on building real-world web applications and improving daily through 
 ---
 
 ### 📈 GitHub Stats
-![Karabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karabo-Mokholo&show_icons=true&theme=dark)
+![Karabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karabo-Mokholo&show_icons=true&theme=dark&cache_seconds=1800)
+
 
 ---
 
