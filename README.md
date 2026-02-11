@@ -26,11 +26,20 @@ I'm focused on building real-world web applications and improving daily through 
 
 ---
 
-### 🌍 Connect With Me
-- YouTube: https://www.youtube.com/@KaraboMokholo
-- LinkedIn: https://www.linkedin.com/in/karabomokholo/?skipRedirect=true
+## 🌍 Connect With Me
 
----
+<p align="center">
+  <a href="https://www.youtube.com/@KaraboMokholo">
+    <img src="https://img.shields.io/badge/YouTube-ff0000?logo=youtube&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/karabomokholo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://x.com/karabo16601?s=21">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
 
 ⚡ *Consistency beats motivation.*
 
