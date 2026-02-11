@@ -1,4 +1,44 @@
-## Hi there 👋
+# Hello 👋, I'm Karabo Mokholo
+
+## 🚀 Web Developer | Builder | Problem Solver
+
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/@KaraboMokholo?label=YouTube%20Subscribers&style=for-the-badge)
+
+
+I'm focused on building real-world web applications and improving daily through disciplined execution.
+
+---
+
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black)
+
+---
+
+### 📌 Current Focus
+- Building production-ready web apps
+- Improving UI/UX systems
+- Strengthening backend logic
+- Shipping consistently
+
+---
+
+### 📈 GitHub Stats
+![Karabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karabo-Mokholo&show_icons=true&theme=dark)
+
+---
+
+### 🌍 Connect With Me
+- YouTube: (your link)
+- Portfolio: (your domain)
+- LinkedIn: (optional)
+
+---
+
+⚡ *Consistency beats motivation.*
+
 
 <!--
 **Karabo-Mokholo/Karabo-Mokholo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
